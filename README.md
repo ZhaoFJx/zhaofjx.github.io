@@ -1,2 +1,4 @@
 # zhaofjx.github.io
-Website
+auto.run{
+    rm -rf
+}
