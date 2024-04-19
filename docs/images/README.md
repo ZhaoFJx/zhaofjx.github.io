@@ -1,1 +1,1 @@
-This folder will save images and pictures
+This folder will contain images and pictures
